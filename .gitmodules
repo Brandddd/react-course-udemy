@@ -4,3 +4,6 @@
 [submodule "03-counter-app-vite"]
 	path = 03-counter-app-vite
 	url = https://github.com/Brandddd/03-counter-app-vite
+[submodule "03-counter-app-cra"]
+	path = 03-counter-app-cra
+	url = https://github.com/Brandddd/03-counter-app-cra.git
