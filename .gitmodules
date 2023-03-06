@@ -1,6 +1,6 @@
 [submodule "02-intro-javascript"]
 	path = 02-intro-javascript
 	url = https://github.com/Brandddd/02-intro-javascript.git
-[submodule "counter-app"]
-	path = counter-app
-	url = https://github.com/Brandddd/counter-app.git
+[submodule "03-counter-app-vite"]
+	path = 03-counter-app-vite
+	url = https://github.com/Brandddd/03-counter-app-vite
